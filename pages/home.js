@@ -1,18 +1,5 @@
-/*********************************************************************************
-*  WEB422 – Assignment 4
-*
-*  I declare that this assignment is my own work in accordance with Seneca's
-*  Academic Integrity Policy:
-* 
-*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-* 
-*  Name: ___Frank Fu___________________ Student ID: ____126609197____________ Date: ________July 5 2024____________
-*
-********************************************************************************/ 
-
 import Image from 'react-bootstrap/Image';
 import { Row, Col } from 'react-bootstrap';
-
 
 const Home = () => (
   <>
